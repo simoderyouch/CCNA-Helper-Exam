@@ -8,7 +8,7 @@ let lastResult = null;
 
 // Default OpenRouter config (can be overridden by message)
 const DEFAULT_OPENROUTER_MODEL = 'mistralai/mistral-7b-instruct:free';
-const DEFAULT_OPENROUTER_API_KEY = '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';
+const DEFAULT_OPENROUTER_API_KEY = '';
 
 console.log('[CCNA Background] Service worker starting...');
 
